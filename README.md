@@ -1,3 +1,7 @@
+# Hecho por:
+- Axel Bedoya
+- Sara Zuluaga
+
 # 📌 Recomendación  
 Recuerda revisar la **Wiki de GitHub** para acceder a toda la documentación, diagramas y ejemplos del proyecto.  
 
