@@ -35,8 +35,8 @@ Al iniciar el programa aparece un menú con **4 opciones principales**:
 Permite **agregar un producto** y su respectivo stock.  
 
 <p align="center"> 
-  <img width="299" height="46" alt="Menú Artesanos" src="https://github.com/user-attachments/assets/9a37490c-df06-49fd-95b1-e84902a494b1" /> 
-</p>  
+  <img width="540" height="241" alt="Menú Reporte" src="https://github.com/user-attachments/assets/513b2e16-06d3-40da-bb84-b698be237f04" /> 
+</p> 
 
 ---
 
@@ -52,9 +52,8 @@ Permite a los clientes **comprar un producto** por nombre y cantidad.
 ## 3️⃣ Opción Reporte  
 Genera un **informe detallado** de todas las operaciones realizadas en el programa.  
 
-<p align="center"> 
-  <img width="540" height="241" alt="Menú Reporte" src="https://github.com/user-attachments/assets/513b2e16-06d3-40da-bb84-b698be237f04" /> 
-</p>  
+ <img width="588" height="153" alt="Captura de pantalla 2025-08-18 224841" src="https://github.com/user-attachments/assets/3f47e466-2688-40d4-a9f7-3028582cb064" />
+
 
 ---
 
