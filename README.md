@@ -14,6 +14,8 @@ En el terminal, dentro de la carpeta donde se guardó el proyecto, se debe corre
 
 ```bash
 java -cp out src.app.Main
+```
+
 
 ✅ **Ejemplo de ejecución en terminal:**  
 
